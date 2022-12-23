@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+>>js
+>>  const jjmartinc = {
+>>    pronouns : he
+>>    code : [javascript, HTML, CSS]
+>>    tools: [React, Node, Docker]
+>>    architecture:[coming soon.]
+>>    challenge: "I am on a bootcamp to learning code to be a developer"}
+
+
 <!--
 **JJmartinc/JJmartinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
