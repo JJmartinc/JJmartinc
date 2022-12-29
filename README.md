@@ -1,11 +1,11 @@
-<h1>### Hi there 👋</h1>
+<h1>Hi there 👋</h1>
 js
 const jjmartinc = {<br>
 pronouns : he<br>
 code : [javascript, HTML, CSS]<br>
-tools: [React, Node, Docker]
-architecture:[coming soon.]
-challenge: "I am on a bootcamp to learning code to be a developer"}
+tools: [React, Node, Docker]<br>
+architecture:[coming soon.]<br>
+challenge: "I am on a bootcamp to learning code to be a developer"}<br>
 
 
 
