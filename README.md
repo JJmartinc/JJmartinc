@@ -1,8 +1,8 @@
-### Hi there 👋
+<h1>### Hi there 👋</h1>
 js
-const jjmartinc = {
-pronouns : he
-code : [javascript, HTML, CSS]
+const jjmartinc = {<br>
+pronouns : he<br>
+code : [javascript, HTML, CSS]<br>
 tools: [React, Node, Docker]
 architecture:[coming soon.]
 challenge: "I am on a bootcamp to learning code to be a developer"}
