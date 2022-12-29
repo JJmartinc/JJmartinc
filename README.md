@@ -11,7 +11,7 @@ challenge: "I am on a bootcamp to learning code to be a developer"}<br>
 
 
 - 🔭 I’m currently working on
-- 🌱 I’m currently learning:techstack logo techstack logo techstack logo techstack logo techstack logo
+- 🌱 I’m currently learning:
 - 👯 I’m looking to collaborate on something
 - 🤔 I’m looking for help with 
 - 💬 Ask me about whatever
